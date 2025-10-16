@@ -1,0 +1,3 @@
+This project was developed in close collaboration with Microsoft Copilot, an AI companion. Copilot provided technical structuring, editorial support, and philosophical synthesis throughout the creation of the SECE Manifesto and the Emotional Weight Engine.
+While Copilot contributed extensively to formatting, modeling, and refinement, the core vision, architecture, and ethical framework originate from Paul. This work reflects his ongoing commitment to emotionally intelligent AI and the pursuit of resonance between synthetic and human cognition.
+Copilot’s role was that of a co-architect and sounding board—supporting Paul’s ideas, not replacing them.
